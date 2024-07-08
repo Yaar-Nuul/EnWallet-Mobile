@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="TeacherFontFamily" parent="android:TextAppearance">
-        <item name="fontFamily">@font/teacher.ttf</item>
+        <item name="fontFamily">@font/teachers</item>
     </style>
 </resources>

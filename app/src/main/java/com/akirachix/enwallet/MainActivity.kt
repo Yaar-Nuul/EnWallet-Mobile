@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.rvWallet.layoutManager = LinearLayoutManager(this)
-        displayEnwallet(walletItems = WalletItems())
+//        displayEnwallet(walletItems = WalletItems())
 
     }
     fun displayEnwallet(walletItems: List<WalletItems>){
